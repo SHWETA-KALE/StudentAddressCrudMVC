@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC\\StudentsViewTemplateDemoCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|d:\\mvc\\studentsviewtemplatedemocrud\\studentsviewtemplatedemocrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|solutionrelative:studentsviewtemplatedemocrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|D:\\MVC\\StudentsViewTemplateDemoCrud\\studentsviewtemplatedemocrud\\views\\student\\editaddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|solutionrelative:studentsviewtemplatedemocrud\\views\\student\\editaddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|D:\\MVC\\StudentsViewTemplateDemoCrud\\studentsviewtemplatedemocrud\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|solutionrelative:studentsviewtemplatedemocrud\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|D:\\MVC\\StudentsViewTemplateDemoCrud\\studentsviewtemplatedemocrud\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|solutionrelative:studentsviewtemplatedemocrud\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|D:\\MVC\\StudentsViewTemplateDemoCrud\\studentsviewtemplatedemocrud\\views\\student\\getaddressofstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|solutionrelative:studentsviewtemplatedemocrud\\views\\student\\getaddressofstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|D:\\MVC\\StudentsViewTemplateDemoCrud\\studentsviewtemplatedemocrud\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|solutionrelative:studentsviewtemplatedemocrud\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|D:\\MVC\\StudentsViewTemplateDemoCrud\\studentsviewtemplatedemocrud\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|solutionrelative:studentsviewtemplatedemocrud\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|D:\\MVC\\StudentsViewTemplateDemoCrud\\studentsviewtemplatedemocrud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|solutionrelative:studentsviewtemplatedemocrud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|D:\\MVC\\StudentsViewTemplateDemoCrud\\studentsviewtemplatedemocrud\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|solutionrelative:studentsviewtemplatedemocrud\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|D:\\MVC\\StudentsViewTemplateDemoCrud\\studentsviewtemplatedemocrud\\views\\student\\deleteaddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|solutionrelative:studentsviewtemplatedemocrud\\views\\student\\deleteaddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|D:\\MVC\\StudentsViewTemplateDemoCrud\\studentsviewtemplatedemocrud\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|solutionrelative:studentsviewtemplatedemocrud\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|D:\\MVC\\StudentsViewTemplateDemoCrud\\studentsviewtemplatedemocrud\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|solutionrelative:studentsviewtemplatedemocrud\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|D:\\MVC\\StudentsViewTemplateDemoCrud\\studentsviewtemplatedemocrud\\views\\student\\getstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6C26E9-166E-4DEF-A3C7-607AD55D7E8F}|StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud.csproj|solutionrelative:studentsviewtemplatedemocrud\\views\\student\\getstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentsViewTemplateDemoCrud\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentsViewTemplateDemoCrud\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAMsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:01:44.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditAddress.cshtml",
+              "DocumentMoniker": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\EditAddress.cshtml",
+              "RelativeDocumentMoniker": "StudentsViewTemplateDemoCrud\\Views\\Student\\EditAddress.cshtml",
+              "ToolTip": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\EditAddress.cshtml",
+              "RelativeToolTip": "StudentsViewTemplateDemoCrud\\Views\\Student\\EditAddress.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T09:24:13.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "StudentsViewTemplateDemoCrud\\Models\\Address.cs",
+              "ToolTip": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Models\\Address.cs",
+              "RelativeToolTip": "StudentsViewTemplateDemoCrud\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:03:35.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllStudents.cshtml",
+              "DocumentMoniker": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeDocumentMoniker": "StudentsViewTemplateDemoCrud\\Views\\Student\\GetAllStudents.cshtml",
+              "ToolTip": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeToolTip": "StudentsViewTemplateDemoCrud\\Views\\Student\\GetAllStudents.cshtml",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAwwGkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:13:36.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentsViewTemplateDemoCrud\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "StudentsViewTemplateDemoCrud\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwFgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:49:48.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentsViewTemplateDemoCrud\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudentsViewTemplateDemoCrud\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T11:09:37.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAddressOfStudentById.cshtml",
+              "DocumentMoniker": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\GetAddressOfStudentById.cshtml",
+              "RelativeDocumentMoniker": "StudentsViewTemplateDemoCrud\\Views\\Student\\GetAddressOfStudentById.cshtml",
+              "ToolTip": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\GetAddressOfStudentById.cshtml",
+              "RelativeToolTip": "StudentsViewTemplateDemoCrud\\Views\\Student\\GetAddressOfStudentById.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:15:23.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentsViewTemplateDemoCrud\\Models\\Student.cs",
+              "ToolTip": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Models\\Student.cs",
+              "RelativeToolTip": "StudentsViewTemplateDemoCrud\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:02:48.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentsViewTemplateDemoCrud\\Views\\Student\\Details.cshtml",
+              "ToolTip": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "StudentsViewTemplateDemoCrud\\Views\\Student\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:56:03.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteAddress.cshtml",
+              "DocumentMoniker": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\DeleteAddress.cshtml",
+              "RelativeDocumentMoniker": "StudentsViewTemplateDemoCrud\\Views\\Student\\DeleteAddress.cshtml",
+              "ToolTip": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\DeleteAddress.cshtml",
+              "RelativeToolTip": "StudentsViewTemplateDemoCrud\\Views\\Student\\DeleteAddress.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwDYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T07:58:55.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudentsViewTemplateDemoCrud\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "StudentsViewTemplateDemoCrud\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T10:07:14.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "StudentsViewTemplateDemoCrud\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "StudentsViewTemplateDemoCrud\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:08:48.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetStudentById.cshtml",
+              "DocumentMoniker": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\GetStudentById.cshtml",
+              "RelativeDocumentMoniker": "StudentsViewTemplateDemoCrud\\Views\\Student\\GetStudentById.cshtml",
+              "ToolTip": "D:\\MVC\\StudentsViewTemplateDemoCrud\\StudentsViewTemplateDemoCrud\\Views\\Student\\GetStudentById.cshtml",
+              "RelativeToolTip": "StudentsViewTemplateDemoCrud\\Views\\Student\\GetStudentById.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:15:03.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
